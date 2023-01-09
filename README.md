@@ -1,7 +1,8 @@
-### Olá, eu sou a Zeleine! 🌷
+### Olá, eu sou a Zeleine! 🍋
 
 - 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas
-- ⚡ Aprendendo JavaScript e Node.js
+- ⚡ Aprendendo JavaScript
+- 🌐 Estudando Mandarim
 
 <div align="center">
   <a href="https://github.com/zeleine">
