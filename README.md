@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 - ⚡ Aprendendo JavaScript
-- 🌐 Estudando Mandarim
+- 🌐 Estudando Mandarim e Coreano
 
 <div align="center">
   <a href="https://github.com/zeleine">
