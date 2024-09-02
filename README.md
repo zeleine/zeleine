@@ -1,9 +1,9 @@
 ### Olá, eu sou a Zeleine! 🍋
 
-- 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas
-- ⚡ Aprendendo JavaScript
-- 🌐 Estudando Mandarim e Coreano
-
+- 👩🏻‍💻 Estudante de Ciência da Computação
+- ⚡ Aprendendo mais sobre Cybersecurity
+- 🌐 Estudando Mandarim
+  
 <div align="center">
   <a href="https://github.com/zeleine">
   <img height="180em" src="https://github-readme-stats-ybck.vercel.app/api?username=zeleine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
