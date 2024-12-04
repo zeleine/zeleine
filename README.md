@@ -1,6 +1,6 @@
 ### Olá, eu sou a Zeleine! 🍋
 
-- 👩🏻‍💻 Estudante de Ciência da Computação
+- 👩🏻‍💻 Estudante de Gestão da Tecnologia da Informação
 - ⚡ Aprendendo mais sobre Cybersecurity
 - 🌐 Estudando Mandarim
   
